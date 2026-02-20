@@ -1,0 +1,5 @@
+Countries,confirmed_cases,cases_in_last_7_days,confirmed_deaths,population_millions,deaths_in_last_7_days,deaths_per_million,daily_increases_num_deaths,deaths_per_million
+Chad,"7,427",1,193,16.43,0,0,0,11.75
+China,"2,170,811","23,481","14,649","1,410.93",16,0.01,2,10.38
+Burundi,"43,060",266,38,11.89,0,0,0,3.2
+New Zealand,"5,814",24,1,5.08,0,0,0,0.2
